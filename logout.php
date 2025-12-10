@@ -1,7 +1,6 @@
 <?php
-session_start();
-session_destroy();
+require_once 'Student.php';
+$student = new Student();
+$student->logout();
 header("Location: login.php");
 exit();
-
-

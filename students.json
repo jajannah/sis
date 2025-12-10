@@ -7,6 +7,23 @@
         "contact": "12345",
         "email": "sample@gmail.com",
         "password": "$2y$10$4mvB4ss3Zs3Bh9Pce6vr3uonvTsy2txWzM9764\/MzKSJ53TRrCSj."
+    },
+    {
+        "id": 2,
+        "name": "Tobio",
+        "course": "BSIT",
+        "year": "1",
+        "contact": "Karasuno",
+        "email": "tobio@gmail.com",
+        "password": "$2y$10$pYeeua9tQsDiM9KtrvTXee6cEnQS7APbm3FFT0CSn1RaPny.iyYCm"
+    },
+    {
+        "id": 3,
+        "name": "Hoshi",
+        "course": "BSIT",
+        "year": "3",
+        "contact": "SVT",
+        "email": "hoshi@gmail.com",
+        "password": "$2y$10$FuiZa5eiaZTv1FI5YFbCG.dEpyQcnIe5DkHlGnNjBOLIHTt3JAL9q"
     }
 ]
-
